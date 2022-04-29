@@ -1,0 +1,15 @@
+Create Finance Application, which calculates and outputs investment decision, Budget, insurance.
+Use python to do this
+Create a console application then turn it into a web app using Django or Flash - Learn any one of these later to achieve this.
+
+Features In Mind-
+Insurance Cost Calculator
+Investment Return Calculator
+Stock Portfolio Return Calculator
+Stock Portfolio Risk Assessment
+Assest Portfolio Risks and Return
+Liabilities and Debt
+Net worth
+Income
+Expenditure
+Budget Logger
